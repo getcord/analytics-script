@@ -1,0 +1,15 @@
+{
+  "name": "cord-analytics-script",
+  "version": "1.0.0",
+  "description": "A quick and dirty analytics generation script",
+  "main": "index.js",
+  "author": "Jackson Gabbard <jack@cord.com>",
+  "license": "Unlicensed, as-is",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "colors": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "jsonwebtoken": "^9.0.2",
+    "yargs": "^17.7.2"
+  }
+}
